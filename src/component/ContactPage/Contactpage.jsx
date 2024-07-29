@@ -12,7 +12,7 @@ const Contactpage = () => {
 <Nav />
 <h1 className=' text-6xl font-semibold px-16 pt-28 text-white'>Contact Us</h1>
 </div>
-        <div className='flex'>
+        <div className='flex-col'>
 
         <Form/>
         <FormRight/>
